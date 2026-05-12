@@ -97,3 +97,4 @@ class HomeController extends Controller
         return redirect()->route('home')->with('info', 'Anda telah logout.');
     }
 }
+"// controllers ready" 
