@@ -184,3 +184,4 @@
 </body>
 </html>
 "{{-- layout ready --}}" 
+"{{-- dark mode ready --}}" 
