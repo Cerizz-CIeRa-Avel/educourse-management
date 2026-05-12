@@ -51,3 +51,4 @@ Route::prefix('admin')->name('admin.')->group(function () {
 Route::fallback(function () {
     return response()->view('errors.404', [], 404);
 });
+"<!-- routing configured -->" 
