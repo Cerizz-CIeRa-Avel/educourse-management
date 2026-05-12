@@ -183,3 +183,4 @@
 @yield('scripts')
 </body>
 </html>
+"{{-- layout ready --}}" 
